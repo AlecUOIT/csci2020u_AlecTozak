@@ -1,6 +1,6 @@
 package com.csci2020u;
 
-public class Hello {
+public class SimpleTest {
 
  public static void main(String[] args) {
 
